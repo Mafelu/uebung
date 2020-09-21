@@ -1,0 +1,16 @@
+https://developer.mozilla.org/de/docs/Learn/Getting_started_with_the_web/What_will_your_website_look_like
+
+Style:
+    Youtube Kinomodus
+    Video Oben ca. 2/3, Mitte ca. 3/4
+    Oben, Links ca 1/8 Steuerung
+    Oben, Rechts 1/8, Analyse
+    Unten Verlauf
+Colors:
+    background: #F5D6C6",  Crème de Pêche
+    text: #5A3E36; Rocky Road
+    widget: #77212E"; Biking Red
+
+Schriftart:
+    <link href="https://fonts.googleapis.com/css2?family=Rajdhani:wght@300;500;700&display=swap" rel="stylesheet">
+    font-family: 'Rajdhani', sans-serif;
